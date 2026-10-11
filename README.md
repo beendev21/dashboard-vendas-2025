@@ -1,5 +1,5 @@
 # 📊 Dashboard de Vendas | 2025
-
+![Dashboard de Vendas 2025](dashboard.png)
 ## 📌 Sobre o projeto
 
 Este projeto apresenta uma análise exploratória de vendas desenvolvida no Microsoft Excel, utilizando uma base de dados fictícia com 300 pedidos.
