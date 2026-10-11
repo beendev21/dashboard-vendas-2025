@@ -1,4 +1,3 @@
-# dashboard-vendas-2025
 # 📊 Dashboard de Vendas | 2025
 
 ## 📌 Sobre o projeto
